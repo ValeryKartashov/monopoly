@@ -1,0 +1,14 @@
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\MonopolyServer_KartashovAS41.exe
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\MonopolyServer_KartashovAS41.deps.json
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\MonopolyServer_KartashovAS41.runtimeconfig.json
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\MonopolyServer_KartashovAS41.dll
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\ref\MonopolyServer_KartashovAS41.dll
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\bin\Debug\net6.0\MonopolyServer_KartashovAS41.pdb
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.AssemblyInfoInputs.cache
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.AssemblyInfo.cs
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.csproj.CoreCompileInputs.cache
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.dll
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\ref\MonopolyServer_KartashovAS41.dll
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.pdb
+C:\Users\socdd\Desktop\MonopolyServer_KartashovAS41\obj\Debug\net6.0\MonopolyServer_KartashovAS41.genruntimeconfig.cache
