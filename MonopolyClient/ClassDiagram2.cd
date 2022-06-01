@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonopolyClient.Game">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="blueDot_picturebox" Hidden="true" />
+      <Field Name="bluePawnIcon" Hidden="true" />
+      <Field Name="bluePlayerStatusBox_richtextbox" Hidden="true" />
+      <Field Name="buyBtn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="currentPlayersTurn_textbox" Hidden="true" />
+      <Field Name="currentPositionInfo_richtextbox" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="endTurnBtn" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pbControlMenu" Hidden="true" />
+      <Field Name="quitGameBtn" Hidden="true" />
+      <Field Name="redDot_picturebox" Hidden="true" />
+      <Field Name="redPawnIcon" Hidden="true" />
+      <Field Name="redPlayerStatusBox_richtextbox" Hidden="true" />
+      <Field Name="RollToJail_checkbox" Hidden="true" />
+      <Field Name="throwDiceBtn" Hidden="true" />
+      <Field Name="tile0" Hidden="true" />
+      <Field Name="tile1" Hidden="true" />
+      <Field Name="tile10" Hidden="true" />
+      <Field Name="tile11" Hidden="true" />
+      <Field Name="tile12" Hidden="true" />
+      <Field Name="tile13" Hidden="true" />
+      <Field Name="tile14" Hidden="true" />
+      <Field Name="tile15" Hidden="true" />
+      <Field Name="tile16" Hidden="true" />
+      <Field Name="tile17" Hidden="true" />
+      <Field Name="tile18" Hidden="true" />
+      <Field Name="tile19" Hidden="true" />
+      <Field Name="tile2" Hidden="true" />
+      <Field Name="tile20" Hidden="true" />
+      <Field Name="tile21" Hidden="true" />
+      <Field Name="tile22" Hidden="true" />
+      <Field Name="tile23" Hidden="true" />
+      <Field Name="tile24" Hidden="true" />
+      <Field Name="tile25" Hidden="true" />
+      <Field Name="tile26" Hidden="true" />
+      <Field Name="tile27" Hidden="true" />
+      <Field Name="tile28" Hidden="true" />
+      <Field Name="tile29" Hidden="true" />
+      <Field Name="tile3" Hidden="true" />
+      <Field Name="tile30" Hidden="true" />
+      <Field Name="tile31" Hidden="true" />
+      <Field Name="tile32" Hidden="true" />
+      <Field Name="tile33" Hidden="true" />
+      <Field Name="tile34" Hidden="true" />
+      <Field Name="tile35" Hidden="true" />
+      <Field Name="tile36" Hidden="true" />
+      <Field Name="tile37" Hidden="true" />
+      <Field Name="tile38" Hidden="true" />
+      <Field Name="tile39" Hidden="true" />
+      <Field Name="tile4" Hidden="true" />
+      <Field Name="tile5" Hidden="true" />
+      <Field Name="tile6" Hidden="true" />
+      <Field Name="tile7" Hidden="true" />
+      <Field Name="tile8" Hidden="true" />
+      <Field Name="tile9" Hidden="true" />
+      <Field Name="whatIsOnDices_textbox" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="MonopolyClient.Game.Property">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MonopolyClient.Game.Player">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="MonopolyClient.Game.ReceivedMessage">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gARQYAMAAKAIQgADwQCAAiECADE4glAIg0CAICECARY=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
