@@ -1,0 +1,15 @@
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\bin\Debug\MonopolyClient.exe.config
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\bin\Debug\MonopolyClient.exe
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\bin\Debug\MonopolyClient.pdb
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\1MonopolyClient.csproj.AssemblyReference.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\1MonopolyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\Monopoly_KartashovAS41.Connection.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\Monopoly_KartashovAS41.Game.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\Monopoly_KartashovAS41.Help.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\Monopoly_KartashovAS41.ColorChoosing.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\Monopoly_KartashovAS41.MainMenu.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\MonopolyClient.Properties.Resources.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\1MonopolyClient.csproj.GenerateResource.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\1MonopolyClient.csproj.CoreCompileInputs.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\MonopolyClient.exe
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\Monopoly_KartashovAS41\obj\Debug\MonopolyClient.pdb

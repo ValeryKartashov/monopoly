@@ -1,0 +1,22 @@
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.csproj.AssemblyReference.cache
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.Properties.Resources.resources
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.csproj.GenerateResource.cache
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.csproj.CoreCompileInputs.cache
+C:\Users\socdd\source\repos\MonopolyServer\bin\Debug\MonopolyServer.exe.config
+C:\Users\socdd\source\repos\MonopolyServer\bin\Debug\MonopolyServer.exe
+C:\Users\socdd\source\repos\MonopolyServer\bin\Debug\MonopolyServer.pdb
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.exe
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.pdb
+C:\Users\socdd\source\repos\MonopolyServer\obj\Debug\MonopolyServer.ServerForm.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\bin\Debug\MonopolyServer.exe.config
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\bin\Debug\MonopolyServer.exe
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\bin\Debug\MonopolyServer.pdb
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.csproj.AssemblyReference.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.ServerForm.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.Properties.Resources.resources
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.csproj.GenerateResource.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.csproj.CoreCompileInputs.cache
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.exe
+C:\Users\socdd\OneDrive\Рабочий стол\Monopoly\MonopolyServer\obj\Debug\MonopolyServer.pdb
